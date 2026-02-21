@@ -1,18 +1,18 @@
-# Terms of Service for My Video Bot
+Terms of Service
 
-Last updated: February 2026
+1. Acceptance of Terms
+By using Vanguard Video Bot, you agree to comply with these terms and the TikTok Community Guidelines.
 
-## 1. Acceptance of Terms
-By using My Video Bot ("the Service"), you agree to these Terms.
+2. Service Description
+Our service provides AI-based video processing and automated uploading to TikTok. We are not an official partner of TikTok.
 
-## 2. Description
-The Service automates video uploads to TikTok and YouTube.
+3. User Responsibilities
 
-## 3. User Responsibilities
-You own all content uploaded. You must comply with TikTok's and YouTube's terms.
+You are responsible for the content you upload.
 
-## 4. Limitation of Liability
-The Service is provided "as is" without warranties.
+You must own the copyrights or have permission for all media processed by the bot.
 
-## 5. Contact
-For questions: tripakwot@gmail.com
+You agree not to use the bot for spam, harassment, or spreading prohibited content.
+
+4. Limitation of Liability
+We are not responsible for any account suspensions or shadowbans resulting from the misuse of our automation tools. Use the service at your own risk in accordance with TikTok’s rate limits.
